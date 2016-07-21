@@ -1,0 +1,14 @@
+layout_spectrum: 0.05555556
+typography_spectrum: 0.4731183
+color:
+  saturation: 0.9877223
+  lightness: 0.1649687
+  brandStrength: 0.9934525
+  rhythmicContrast: 0.4572183
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: TheNatty
